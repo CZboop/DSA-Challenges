@@ -1,2 +1,2 @@
-# L-and-D-Challenges
-BNTA learning and development challenges
+# DSA-Challenges
+Data structures and algorithms, BNTA learning and development challenges, and any related projects
